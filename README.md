@@ -37,3 +37,7 @@ O projeto possui um pipeline no GitHub Actions em:
 ```
 
 Esse pipeline executa automaticamente os testes a cada push na branch principal.
+
+## Integrantes
+
+- Giovana Rodrigues dos Santos
